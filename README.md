@@ -19,6 +19,8 @@ Tras esto se te presentara un menú con opciones que te permitira utilizar las d
 ## Contribuciones
 En caso de que consideres que el proyecto tiene algo de valor y quieras aportar cualquier comentario o realizar un pull request, sientete con toda la comodidad de hacerlo y si tenemos tiempo libre lo revisaremos. En tanto, es importante considerar que este proyecto es meramente escolar.
 
+El código fuente de NUESTRO desarrollo se encuentra en la carpeta \liboqs-python\development y es de nuestra completa autoría. Los demás directorios que puedas encontrar corresponden a una reproducción de la biblioteca obtenida del proyecto OQS.
+
 ## Licencia
 
 [MIT](https://choosealicense.com/licenses/mit/)
